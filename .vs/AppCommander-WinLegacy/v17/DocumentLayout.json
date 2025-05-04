@@ -3,19 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\elementspreviewdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\elementspreviewdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\elementspreviewdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\elementspreviewdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\desktopapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\desktopapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\automationelementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\automationelementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\appuielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\appuielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\applicationselectordialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\applicationselectordialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\applicationselectordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\applicationselectordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\applicationinfoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\applicationinfoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\applicationinfobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\applicationinfobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\applicationfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\applicationfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\appcommander-winlegacy\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\appcommander-winlegacy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|c:\\users\\rudol\\source\\repos\\appcommander-winlegacy\\appcommander-winlegacy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\appcommander-winlegacy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{882DEA3A-4C84-4216-95BE-3342918B669C}|AppCommander-WinLegacy\\AppCommander-WinLegacy.csproj|solutionrelative:appcommander-winlegacy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,19 +91,160 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "AppCommander-WinLegacy\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Title": "ElementsPreviewDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ElementsPreviewDialog.xaml.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\ElementsPreviewDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ElementsPreviewDialog.xaml.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\ElementsPreviewDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T18:28:41.389Z",
+              "WhenOpened": "2025-05-04T20:29:03.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ElementsPreviewDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ElementsPreviewDialog.xaml",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\ElementsPreviewDialog.xaml",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ElementsPreviewDialog.xaml",
+              "RelativeToolTip": "AppCommander-WinLegacy\\ElementsPreviewDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T20:27:54.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DesktopApplicationInfo.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\DesktopApplicationInfo.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\DesktopApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\DesktopApplicationInfo.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\DesktopApplicationInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:26:52.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\ConfigurationManager.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ConfigurationManager.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\ConfigurationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:25:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutomationElementExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\AutomationElementExtensions.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\AutomationElementExtensions.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\AutomationElementExtensions.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\AutomationElementExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:22:51.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUIElement.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\AppUIElement.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\AppUIElement.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\AppUIElement.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\AppUIElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:21:30.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationSelectorDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationSelectorDialog.xaml.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\ApplicationSelectorDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationSelectorDialog.xaml.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\ApplicationSelectorDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:15:50.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationSelectorDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationSelectorDialog.xaml",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\ApplicationSelectorDialog.xaml",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationSelectorDialog.xaml",
+              "RelativeToolTip": "AppCommander-WinLegacy\\ApplicationSelectorDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T20:12:21.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationInfoExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationInfoExtensions.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\ApplicationInfoExtensions.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationInfoExtensions.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\ApplicationInfoExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:11:17.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationInfoBase.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationInfoBase.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\ApplicationInfoBase.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationInfoBase.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\ApplicationInfoBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:10:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationFinder.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationFinder.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\ApplicationFinder.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\ApplicationFinder.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\ApplicationFinder.cs",
+              "ViewState": "AgIAAAICAAAAAAAAAAAowCECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:09:02.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppCommander-WinLegacy\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\App.xaml.cs",
+              "RelativeToolTip": "AppCommander-WinLegacy\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:04:20.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\App.xaml",
               "RelativeDocumentMoniker": "AppCommander-WinLegacy\\App.xaml",
@@ -70,12 +255,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AppCommander-WinLegacy\\MainWindow.xaml",
@@ -87,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\AppCommander-WinLegacy\\AppCommander-WinLegacy\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AppCommander-WinLegacy\\MainWindow.xaml.cs",
@@ -95,8 +276,7 @@
               "RelativeToolTip": "AppCommander-WinLegacy\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T18:25:58.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T18:25:58.228Z"
             }
           ]
         }

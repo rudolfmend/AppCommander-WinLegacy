@@ -55,6 +55,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="ApplicationSelectorDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ElementsPreviewDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -62,6 +70,19 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ApplicationFinder.cs" />
+    <Compile Include="ApplicationInfoBase.cs" />
+    <Compile Include="ApplicationInfoExtensions.cs" />
+    <Compile Include="ApplicationSelectorDialog.xaml.cs">
+      <DependentUpon>ApplicationSelectorDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AppUIElement.cs" />
+    <Compile Include="AutomationElementExtensions.cs" />
+    <Compile Include="ConfigurationManager.cs" />
+    <Compile Include="DesktopApplicationInfo.cs" />
+    <Compile Include="ElementsPreviewDialog.xaml.cs">
+      <DependentUpon>ElementsPreviewDialog.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

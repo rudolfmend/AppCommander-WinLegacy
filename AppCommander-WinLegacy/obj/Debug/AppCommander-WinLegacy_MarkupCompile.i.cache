@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\rudol\source\repos\AppCommander-WinLegacy\AppCommander-WinLegacy\App.xaml
-1219584333
+3-1557662757
 
-6-502434485
+15-320737263
 13-1310406943
-MainWindow.xaml;
+ApplicationSelectorDialog.xaml;ElementsPreviewDialog.xaml;MainWindow.xaml;
 
 True
 
